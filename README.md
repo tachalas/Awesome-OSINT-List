@@ -1595,6 +1595,7 @@ Enter two images and the difference will show up below
 - [CertGrep](https://certgrep.sh/) - SSL/TLS certificate search and monitoring.
 - [TriNetLayer](https://trinetlayer.com/) - Network layer analysis and IP intelligence.
 - [IPLoop](https://iploop.io) - Residential proxy platform (2M+ IPs, 195+ countries). Route OSINT recon through real residential IPs. Python SDK with 66 site presets.
+- [Fraudpol Scan](https://fraudpol.com/scan) - Lookalike domain scan combining certificate transparency logs with typo variants; shows DNS, MX and live status.
 <br>
 
 [⇧ Top](#index)
